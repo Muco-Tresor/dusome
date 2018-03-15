@@ -1,0 +1,32 @@
+{
+  "name": "dusome",
+  "version": "1.0.0",
+  "description": "Dusome is app which helps to write and read books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muco-Tresor/dusome.git"
+  },
+  "author": "Muco Tresor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muco-Tresor/dusome/issues"
+  },
+  "homepage": "https://github.com/Muco-Tresor/dusome#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "animate.css": "^3.6.1",
+    "bulma": "^0.6.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "material-icons": "^0.1.0",
+    "materialize-css": "^1.0.0-alpha.4",
+    "popper.js": "^1.14.1",
+    "typed.js": "^2.0.6"
+  }
+}
